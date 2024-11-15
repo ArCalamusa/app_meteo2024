@@ -28,7 +28,7 @@ header img {
 
 header h1 {
     font-size: 16px;
-    font-weight: 600px;
+    font-weight: 600;
 }
 
 .container {
@@ -82,15 +82,15 @@ main.result>.result-screen {
 
 .weather-temperature .temp {
     font-size: 88px;
-    font-weight: 400px;
+    font-weight: 400;
 }
 
 .weather-temperature .unit {
     font-size: 32px;
-    font-weight: 500px;
+    font-weight: 500;
 }
 
 .weather-location {
     font-size: 32px;
-    font-weight: 500px;
+    font-weight: 500;
 }
